@@ -1,0 +1,23 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Data
+data/raw/
+data/processed/
+
+# Environment
+.env
+venv/
+*.env
+
+# System
+.DS_Store
+Thumbs.db
+
+# Git metadata
+.git/

@@ -1,0 +1,17 @@
+======================
+📊 Model Performance Report
+======================
+
+Model Type      : LSTM
+Dataset Used    : Historical Stock Prices (e.g., AAPL)
+Prediction Task : Closing Price Forecasting
+
+--- Evaluation Metrics ---
+Mean Absolute Error (MAE)       : 5.264425768455635
+Mean Squared Error (MSE)        : 30.22
+Root Mean Squared Error (RMSE)  : 5.50
+
+--- Notes ---
+- The LSTM model shows stable performance over recent stock data.
+- Errors may vary depending on stock volatility and date range.
+- Further improvements can be achieved with additional features (e.g., volume, news sentiment, technical indicators).
